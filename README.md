@@ -1,6 +1,8 @@
 # LoginAndMap
 iOS app that shows you all the train station around you in a 100,000 KM radius.
 
+![LoginAndMap GIF](https://raw.githubusercontent.com/5haw4/LoginAndMap/master/LoginAndMap.gif)
+
 # Main Features:
 - Use of location services to finds the user's current location
 - Google Maps View via Google Maps SDK

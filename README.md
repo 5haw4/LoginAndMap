@@ -1,5 +1,5 @@
 # LoginAndMap
-iOS app that shows you all the train station around you in a 100,000 KM radius.
+iOS app that shows you all the train station around you in a 100 KM radius.
 
 ![LoginAndMap GIF](https://raw.githubusercontent.com/5haw4/LoginAndMap/master/LoginAndMap.gif)
 

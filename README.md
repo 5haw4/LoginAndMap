@@ -6,7 +6,7 @@ iOS app that shows you all the train station around you in a 100,000 KM radius.
 # Main Features:
 - Use of location services to finds the user's current location
 - Google Maps View via Google Maps SDK
-- The app shows all the train station in a 100,000 KM radius.
+- The app shows all the train station in a 100 KM radius.
 - The user can tap on any of the train station markers on the map and see info about that train station.
 - The user is then able to get navigation from their current location to that train station using Google Maps or Apple Maps.
  
